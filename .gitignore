@@ -1,1 +1,16 @@
+# Datos crudos
+data/olist/*.csv
 
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Sistema
+.DS_Store
+Thumbs.db
