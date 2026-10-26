@@ -1,0 +1,5 @@
+indicador,variable,pares,rho
+Días totales de entrega,dias_entrega,95560,-0.23467078601736674
+Días de retraso,dias_retraso,95560,-0.31489121036889195
+Flete relativo,flete_relativo,95560,-0.030815991826615086
+Valor de productos (R$),valor_productos,95560,-0.029255440636838295

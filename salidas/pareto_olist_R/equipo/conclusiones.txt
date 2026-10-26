@@ -1,0 +1,10 @@
+Perfil: equipo; regla de satisfacción: promedio.
+Se analizaron 95.560 pedidos; 12.192 tienen calificación baja (12,8%).
+El 80% de casos asignados de reseñas bajas se concentra en 427 de 2941 vendedores (14,5%).
+El 20% superior concentra 86,1% de esos casos.
+La primera lista de 20 vendedores cubre 23,8% de casos asignados.
+El vendedor seleccionado ocupa la posición 3; excluir sus pedidos cambia la tasa global en 0,130 puntos porcentuales.
+Spearman entre distancia y satisfacción por pedido: -0,068; entre preparación y tasa baja por vendedor: 0,387.
+El estado con más reseñas bajas en cantidad es SP; cantidad y tasa no son equivalentes.
+El 67,4% de las reseñas bajas corresponde a pedidos puntuales; investigar también integridad y producto.
+El Pareto indica dónde investigar primero, no quién causó cada problema ni qué porcentaje se resolverá.

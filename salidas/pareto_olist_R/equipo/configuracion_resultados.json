@@ -1,0 +1,34 @@
+{
+  "perfil": "equipo",
+  "inicio": "2017-01-01",
+  "fin_exclusivo": "2018-09-01",
+  "regla_resenas": "promedio",
+  "vendedor_objetivo": "7c67e1448b00f6e969d365cea6b010ab",
+  "min_pedidos_correlacion": 100,
+  "umbral_preparacion_dias": 5,
+  "umbral_transito_dias": 15,
+  "fuente": "CSV locales: ../data/olist",
+  "pedidos": 95560,
+  "bajas": 12192,
+  "conjuntos": 3977,
+  "pareto_bajas": [
+    {
+      "grupos": 2941,
+      "casos": 12192,
+      "grupos_para_80": 427,
+      "proporcion_grupos_para_80": 0.1452,
+      "grupos_top20pct": 589,
+      "cuota_top20pct": 0.8607
+    }
+  ],
+  "pareto_conjuntos": [
+    {
+      "grupos": 2941,
+      "casos": 3977,
+      "grupos_para_80": 356,
+      "proporcion_grupos_para_80": 0.121,
+      "grupos_top20pct": 589,
+      "cuota_top20pct": 0.9003
+    }
+  ]
+}

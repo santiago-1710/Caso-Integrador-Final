@@ -1,0 +1,5 @@
+variable,pares_una_resena,rho_una_resena,rho_todas,diferencia_rho
+dias_entrega,95037,-0.2345,-0.2347,2e-4
+dias_retraso,95037,-0.3149,-0.3149,-1e-4
+flete_pct,95037,-0.0309,-0.0308,-1e-4
+valor_productos,95037,-0.029,-0.0293,3e-4

@@ -1,0 +1,8 @@
+problema,regla,registros_afectados,decision
+Duplicados exactos: orders,distinct(),0,Eliminar filas idénticas
+Duplicados exactos: items,distinct(),0,Eliminar filas idénticas
+Duplicados exactos: reviews,distinct(),0,Eliminar filas idénticas
+Estado con formato irregular,str_to_lower(str_squish()),0,Estandarizar etiqueta
+Categoría de producto ausente,Conservar como sin_categoria,610,Conservar con categoría desconocida
+Reseña sin calificación,Mantener NA; no imputar,0,Excluir solo del denominador de satisfacción
+Fecha de compra no interpretable,ymd_hms(); mantener NA y auditar filtro,0,No forzar fecha; excluir en cohorte temporal

@@ -1,0 +1,6 @@
+problema,codigo,registros_afectados,decision
+Duplicados exactos en orders,distinct(),0,Quitar solo duplicados de fila completa
+Duplicados exactos en items,distinct(),0,Quitar solo duplicados de fila completa
+Duplicados exactos en reviews,distinct(),0,Conservar las reseñas distintas de un pedido
+Espacios o mayúsculas en estado,str_to_lower(str_squish(order_status)),0,Estandarizar etiquetas
+Calificación fuera de 1 a 5,"between(review_score, 1, 5)",0,Detener si hay valores inválidos

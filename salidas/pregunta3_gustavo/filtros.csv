@@ -1,0 +1,6 @@
+paso,pedidos,codigo,excluidos_en_paso
+Fuente original,99441,vista_orden,0
+Estado delivered,96478,filter(order_status == 'delivered'),2963
+Compra enero 2017 a agosto 2018,96211,"filter(fecha_compra >= inicio, fecha_compra < fin)",267
+Fechas válidas,96203,"filter(!is.na(dias_entrega), !is.na(desfase_dias), dias_entrega >= 0)",8
+Importes válidos,96203,"filter(valor_productos > 0, flete >= 0)",0
