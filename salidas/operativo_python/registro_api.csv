@@ -1,2 +1,2 @@
 ﻿fuente,url,consulta_utc,estado,llave_union,uso
-Banco Mundial - inflación anual Brasil,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2017%3A2018,2026-10-26T17:58:18+00:00,Consulta exitosa,anio_compra (año),Contexto anual; no afecta puntaje ni prioridad
+Banco Mundial - inflación anual Brasil,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2017%3A2018,2026-10-27T21:05:28+00:00,Consulta exitosa,anio_compra (año),Contexto anual; no afecta puntaje ni prioridad
